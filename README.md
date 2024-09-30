@@ -1,1 +1,1 @@
-this is a cleaner/serials checker for now
+where i keep sigma files
